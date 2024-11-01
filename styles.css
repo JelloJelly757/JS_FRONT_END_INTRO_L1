@@ -22,3 +22,8 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+img {
+    height: 300px; 
+    width: auto; 
+}
